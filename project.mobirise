@@ -85,9 +85,10 @@
     "witsec-white-label": true,
     "witsec-jquery": false,
     "uniqCompNum": 20,
-    "versionPublish": "5.9.8",
+    "versionPublish": "5.9.15",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "publishEditFolder": true
   },
   "pages": {
     "index.html": {
