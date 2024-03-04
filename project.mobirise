@@ -74,12 +74,12 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-1-32x32.png",
-    "mbrsiteDomain": "ahr6leqis2",
+    "mbrsiteDomain": "nvvvdx9vrk",
     "usedWebp": true,
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://sognatore.pages.dev/",
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
@@ -88,7 +88,8 @@
     "versionPublish": "5.9.15",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "publishEditFolder": false
+    "publishEditFolder": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
