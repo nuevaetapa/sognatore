@@ -1096,8 +1096,54 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.cid-u6IzPNDX2X {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-u6IzPNDX2X .dentaura-cover {
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
+}
+.cid-u6IzPNDX2X hr.dashed {
+  border-top: 4px dashed #ffffff;
+  width: 100%;
+}
+.cid-u6IzPNDX2X hr.dotted {
+  border-top: 4px dotted #ffffff;
+  width: 100%;
+}
+.cid-u6IzPNDX2X hr.solid {
+  border-top: 4px solid #ffffff;
+  width: 100%;
+}
+.cid-u6IzPNDX2X hr.double {
+  border-top: 3px double #ffffff;
+  width: 100%;
+}
+.cid-u6IzPNDX2X hr.splitends {
+  height: 30px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px 0 0 0;
+  border-radius: 20px;
+  width: 100%;
+}
+.cid-u6IzPNDX2X hr.splitends:before {
+  display: block;
+  content: "";
+  height: 30px;
+  margin-top: -31px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 0 0 1px 0;
+  border-radius: 20px;
+}
 .cid-tZDtuGkGdS {
-  padding-top: 6rem;
+  padding-top: 1rem;
   padding-bottom: 3rem;
   background-color: #232323;
 }
@@ -1195,7 +1241,7 @@ a {
 }
 .cid-u3I2aNTZn2 {
   padding-top: 60px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background-color: #353535;
 }
 .cid-u3I2aNTZn2 .mbr-overlay {
