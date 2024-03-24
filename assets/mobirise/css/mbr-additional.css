@@ -1191,6 +1191,7 @@ a {
   display: flex;
   flex-flow: column nowrap;
   border-radius: 20px;
+  transition: 0.4s;
 }
 .cid-tZDtuGkGdS .item-wrapper .item-footer {
   margin-top: auto;
@@ -1212,6 +1213,9 @@ a {
 }
 .cid-tZDtuGkGdS .content-head {
   max-width: 800px;
+}
+.cid-tZDtuGkGdS .item-wrapper:hover {
+  transform: translateY(-20px);
 }
 .cid-u6IragrVNV {
   padding-top: 2rem;
