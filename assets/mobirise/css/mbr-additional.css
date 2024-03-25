@@ -1220,7 +1220,7 @@ a {
 .cid-u6IragrVNV {
   padding-top: 2rem;
   padding-bottom: 1rem;
-  background-color: #ff9966;
+  background-color: #232323;
 }
 .cid-u6IragrVNV .item:focus,
 .cid-u6IragrVNV span:focus {
@@ -1467,6 +1467,10 @@ a {
 }
 .cid-tZBIAMGCzJ .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
+  transition: 0.4s;
+}
+.cid-tZBIAMGCzJ .media-container-row .social-list .soc-item:hover {
+  transform: translateY(-5px);
 }
 .cid-tZBIAMGCzJ .media-container-row .social-list a {
   margin: 0;
